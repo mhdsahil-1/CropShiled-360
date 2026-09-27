@@ -1,0 +1,6 @@
+{
+  "name": "CropShield 360",
+  "description": "AI-Driven Agricultural Digital Decay Twin & Multi-Modal Cold Chain Logistics Dispatch Engine (SIH 2026)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
